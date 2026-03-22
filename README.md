@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranav6814
-- 👀 I’m interested in full stack debelopment
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning artifical intelligence and machine learning
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me through mail 
